@@ -1,0 +1,1 @@
+1000 sub-category folders contain original images, masks, and generated pseudo labels
